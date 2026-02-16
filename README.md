@@ -1,14 +1,9 @@
 Hi 👋, I'm Ufaq Fatima
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Frontend+Web+Developer;Women+in+Tech+%F0%9F%92%9C;AI+%26+Geography+Enthusiast;Firebase+Learner+%F0%9F%94%A5" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Hi,%20I'm%20Ufaq%20Fatima%20💜&fontSize=38&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UfaqFatima786&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
-
----
 
 ## 🌸 About Me
 
