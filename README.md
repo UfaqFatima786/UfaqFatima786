@@ -1,16 +1,85 @@
-## Hi there 👋
+Hi 👋, I'm Ufaq Fatima
 
-<!--
-**UfaqFatima786/UfaqFatima786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Frontend+Web+Developer;Women+in+Tech+%F0%9F%92%9C;AI+%26+Geography+Enthusiast;Firebase+Learner+%F0%9F%94%A5" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UfaqFatima786&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+👩‍💻 Frontend Web Developer  
+🎓 Student at **Saylani Mass IT Hub**  
+🤖 AI Hackathon Participant (AI FemHack)  
+🌍 Geography + Digital Learning Lover  
+🔥 Exploring Firebase & JavaScript  
+💜 Passionate about Women in Tech
+
+---
+
+🌍 Tech Stack & Tools
+
+💻 Frontend
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
+
+🔥 Backend & Tools
+- Firebase  
+- Git  
+- GitHub  
+
+🎨 Design & Skills
+- Responsive Web Design  
+- UI/UX Basics  
+- Clean & Structured Code  
+
+---
+
+🚀 Projects
+
+🌍 **Geographical Insights**  
+Interactive geography learning website with map-based visuals  
+
+🤖 **AI FemHack Hackathon Project**  
+AI-based solution built during a women-focused hackathon  
+
+🏫 **Saylani Mass IT Hub Portal**  
+Multi-feature portal including:
+- Lost & Found  
+- Complaints System  
+- Student Utilities  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UfaqFatima786&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UfaqFatima786&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqFatima786&layout=compact&theme=tokyonight" />
+</p>
+
+ 🌐 Connect With Me
+💼 LinkedIn: 
+📧 Email:u.capricorn19@gmail.com
+
+
+
+ 🌟 Fun Fact
+🌍 I mix Geography + Technology + Creativity to build meaningful digital experiences ✨  
+
+⭐ If you like my work, don’t forget to star my repositories!
+Made with 💜 by Ufaq Fatima
+
