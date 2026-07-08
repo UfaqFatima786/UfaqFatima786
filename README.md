@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="BANNER.PNG.png" width="100%" alt="Banner">
+</p>
+
 # Hi there, I'm **Syeda Ufaq Fatima** 👋
 
 ### 💻 Frontend Web Developer | 📍 Pakistan | 🌍 Geography Graduate
