@@ -33,6 +33,7 @@ I am a passionate Frontend Web Developer who enjoys building responsive, modern,
 * CSS3
 * JavaScript (ES6)
 * Bootstrap
+* Supabase
 * Responsive Web Design
 
 ### 🔥 Backend & Database
