@@ -24,13 +24,12 @@
 
 I'm a passionate **Frontend Web Developer** who enjoys creating responsive, modern, interactive, and user-friendly websites.
 
-I love turning ideas into functional web experiences using **HTML, CSS, JavaScript, Bootstrap, APIs, and Supabase**. Alongside my development journey, I have a background in **Geography** and I'm currently pursuing an **MBA**.
+I love turning ideas into functional web experiences using **HTML, CSS, JavaScript, Bootstrap, APIs, and Supabase**. Alongside my development journey, I have a background in **Geography** 
 
 I'm continuously improving my skills through internships, hackathons, real-world projects, and self-learning.
 
 * 💻 Frontend Web Developer
 * 🎓 Geography Graduate
-* 🎓 Currently pursuing MBA
 * 🚀 Hackathon Participant
 * 💜 Women in Tech Enthusiast
 * 🌱 Currently learning React.js
@@ -44,10 +43,6 @@ I'm continuously improving my skills through internships, hackathons, real-world
 
 ### 💻 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
-
 * HTML5
 * CSS3
 * JavaScript (ES6+)
@@ -59,21 +54,12 @@ I'm continuously improving my skills through internships, hackathons, real-world
 
 ### 🗄️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-</p>
-
 * Supabase
 * Supabase Authentication
 * Supabase CRUD Operations
 * Firebase
-* REST APIs
-
+  
 ### 🛠️ Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-</p>
 
 * Git
 * GitHub
@@ -308,10 +294,6 @@ Currently focusing on:
 
 <a href="https://github.com/UfaqFatima786">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/syeda-ufaq-fatima-237062385/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
