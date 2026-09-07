@@ -253,9 +253,9 @@ Currently focusing on:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UfaqFatima786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UfaqFatima786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqFatima786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UfaqFatima786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 ---
@@ -275,7 +275,6 @@ Currently focusing on:
 </p>
 
 ---
-
 # 📈 GitHub Activity
 
 <p align="center">
