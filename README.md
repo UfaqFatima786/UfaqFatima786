@@ -57,7 +57,6 @@ I'm continuously improving my skills through internships, hackathons, real-world
 * Supabase
 * Supabase Authentication
 * Supabase CRUD Operations
-* Firebase
   
 ### 🛠️ Development Tools
 
