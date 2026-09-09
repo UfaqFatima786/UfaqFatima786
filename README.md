@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Syeda Ufaq Fatima 👋</h1>
 
 <h3 align="center">
-💻 Frontend Web Developer | 🎨 UI Enthusiast | 🌍 Geography Graduate | 📍 Pakistan
+💻 Frontend Web Developer | 🌍 Geography Graduate | 📍 Pakistan
 </h3>
 
 <p align="center">
@@ -171,30 +171,6 @@ A real-time weather application that fetches weather information using a weather
 
 ---
 
-### 🧮 Calculator App
-
-A responsive calculator application created as part of my CodeAlpha internship.
-
-**Tech:** HTML, CSS, JavaScript, Bootstrap
-
----
-
-### 🖼️ Image Gallery App
-
-An interactive image gallery project with responsive design and user-friendly navigation.
-
-**Tech:** HTML, CSS, JavaScript
-
----
-
-### 📝 Quiz App
-
-An interactive quiz application featuring questions, score tracking, and timer functionality.
-
-**Tech:** HTML, CSS, JavaScript, Bootstrap
-
----
-
 ### 📚 Student Admission Portal
 
 An interactive student admission form developed during my internship.
@@ -205,12 +181,13 @@ An interactive student admission form developed during my internship.
 
 ## 💼 Internship Experience
 
-* 💻 Frontend Development Intern
 * 💼 CodeAlpha Internship
 * 💼 SyntecxHub Internship
 * 💼 Codveda Technologies Internship
 * 💼 CrixSoft Internship
 * 💼 Decode Labs Internship Projects
+* 💼 HexSoftwares Internship Projects
+
 
 Through these experiences, I worked on practical frontend projects, responsive websites, JavaScript applications, forms, APIs, and modern web interfaces.
 
