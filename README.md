@@ -191,12 +191,13 @@ Currently focusing on:
 </p>
 
 ---
-# 🔥 GitHub Streak
+# 📈 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=UfaqFatima786&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=UfaqFatima786&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Activity Graph"
   />
 </p>
 
