@@ -3,7 +3,7 @@
   <img src="BANNER.PNG.png" width="100%" alt="Syeda Ufaq Fatima Banner">
 </p>
 
-<h1 align="center">Hi there, I'm Syeda Ufaq Fatima 👋</h1>
+<h1 align="center">Hi there, I'm Ufaq Fatima 👋</h1>
 
 <h3 align="center">
 💻 Frontend Web Developer | 🌍 Geography Graduate | 📍 Pakistan
