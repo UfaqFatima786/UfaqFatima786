@@ -190,26 +190,19 @@ Currently focusing on:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqFatima786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
----
-# 📈 GitHub Activity
+----
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UfaqFatima786&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Activity Graph"
+  <img 
+    src="https://streak-stats.demolab.com/?user=UfaqFatima786&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UfaqFatima786/UfaqFatima786/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 # 📈 GitHub Activity
 
 <p align="center">
@@ -219,6 +212,7 @@ Currently focusing on:
     alt="GitHub Activity Graph"
   />
 </p>
+
 ---
 
 # 🌐 Connect With Me
