@@ -30,7 +30,6 @@ I'm continuously improving my skills through internships, hackathons, real-world
 
 * 💻 Frontend Web Developer
 * 🎓 Geography Graduate
-* 🚀 Hackathon Participant
 * 💜 Women in Tech Enthusiast
 * 🌱 Currently learning React.js
 * 🔥 Interested in modern web technologies
@@ -70,9 +69,6 @@ I'm continuously improving my skills through internships, hackathons, real-world
 
 * Python
 * GIS Mapping
-* ArcGIS
-* QGIS
-* PostGIS
 * GDAL
 * MS Office
 * UI/UX Basics
@@ -82,13 +78,6 @@ I'm continuously improving my skills through internships, hackathons, real-world
 # 🚀 Featured Projects
 
 Here are some of the projects I've built while learning and working on real-world development tasks.
-
-### 🌍 Geographical Insights
-
-An interactive educational website focused on **geography, maps, climate, landscapes, countries, and geographical information**.
-
-**Tech:** HTML, CSS, JavaScript
-
 ---
 
 ### 🏫 CampusConnect
@@ -122,30 +111,6 @@ A responsive AI-focused project created for the **AI FemHack Hackathon**.
 
 ---
 
-### 🍕 Pizza Mania
-
-A modern responsive pizza ordering website with an attractive interface and interactive elements.
-
-**Tech:** HTML, CSS, Bootstrap, JavaScript
-
----
-
-### 🌸 Floral Blossom
-
-A responsive floral-themed website featuring beautiful layouts and modern styling.
-
-**Tech:** HTML, CSS, JavaScript
-
----
-
-### ✨ Glow Heaven
-
-A modern beauty/glow-themed website built with responsive layouts, CSS animations, and Bootstrap.
-
-**Tech:** HTML, CSS, Bootstrap, JavaScript
-
----
-
 ### 🧁 Bakers & Sweets
 
 A responsive bakery website featuring cakes, sweets, bakery products, and Nimco collections.
@@ -159,14 +124,6 @@ A responsive bakery website featuring cakes, sweets, bakery products, and Nimco 
 A creative birthday website developed with animations and interactive visual elements.
 
 **Tech:** HTML, CSS, JavaScript, Bootstrap, GSAP
-
----
-
-### 🌦️ Weather App
-
-A real-time weather application that fetches weather information using a weather API.
-
-**Tech:** HTML, CSS, JavaScript, Weather API
 
 ---
 
@@ -237,8 +194,10 @@ Currently focusing on:
 
 # 🔥 GitHub Streak
 
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UfaqFatima786&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=UfaqFatima786" />
 </p>
 
 ---
