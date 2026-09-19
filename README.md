@@ -24,7 +24,7 @@
 
 I'm a passionate **Frontend Web Developer** who enjoys creating responsive, modern, interactive, and user-friendly websites.
 
-I love turning ideas into functional web experiences using **HTML, CSS, JavaScript, Bootstrap, APIs, and Supabase**. Alongside my development journey, I have a background in **Geography** 
+I love turning ideas into functional web experiences using **HTML, CSS, JavaScript, Supabase, Bootstrap, APIs, and CRUD**. Alongside my development journey, I have a background in **Geography** 
 
 I'm continuously improving my skills through internships, hackathons, real-world projects, and self-learning.
 
