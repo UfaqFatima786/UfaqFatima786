@@ -46,6 +46,7 @@ I'm continuously improving my skills through internships, hackathons, real-world
 * CSS3
 * JavaScript (ES6+)
 * Bootstrap
+* Supabase
 * React.js
 * Responsive Web Design
 * DOM Manipulation
