@@ -45,12 +45,14 @@ I'm continuously improving my skills through internships, hackathons, real-world
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* GSAP Animation
 * Bootstrap
 * Supabase
 * React.js
 * Responsive Web Design
 * DOM Manipulation
 * API Integration
+* Github and Git
 
 ### 🗄️ Backend & Database
 
