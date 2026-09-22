@@ -32,7 +32,7 @@ I'm continuously improving my skills through internships, hackathons, real-world
 * 🎓 Geography Graduate
 * 💜 Women in Tech Enthusiast
 * 🌱 Currently learning React.js
-* 🔥 Interested in modern web technologies
+* 🔥 Interested in modern web development technologies
 * 🗺️ GIS & Mapping Enthusiast
 * 💡 Love building practical web projects
 
