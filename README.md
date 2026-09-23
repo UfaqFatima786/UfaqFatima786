@@ -44,6 +44,7 @@ I'm continuously improving my skills through internships, hackathons, real-world
 
 * HTML5
 * CSS3
+* CSS Animations
 * JavaScript (ES6+)
 * GSAP Animation
 * Bootstrap
