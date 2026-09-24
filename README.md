@@ -26,7 +26,7 @@ I'm a passionate **Frontend Web Developer** who enjoys creating responsive, mode
 
 I love turning ideas into functional web experiences using **HTML, CSS, JavaScript, Supabase, Bootstrap, APIs, and CRUD**. Alongside my development journey, I have a background in **Geography** 
 
-I'm continuously improving my skills through internships, hackathons, real-world projects, and self-learning.
+I'm continuously improving my skills through internships, female hackathons, real-world projects, and self-learning.
 
 * 💻 Frontend Web Developer
 * 🎓 Geography Graduate
