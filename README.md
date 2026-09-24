@@ -198,12 +198,12 @@ Currently focusing on:
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=UfaqFatima786&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 ---
 
