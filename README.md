@@ -67,6 +67,7 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * GitHub
 * VS Code
 * Netlify
+* Surge
 * Canva
 
 ### 🌍 Other Skills
@@ -76,6 +77,7 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * GDAL
 * MS Office
 * UI/UX Basics
+* MS Word
 
 ---
 
