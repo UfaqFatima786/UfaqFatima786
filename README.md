@@ -67,6 +67,7 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * GitHub
 * VS Code
 * Netlify
+* Github Pages
 * Surge
 * Canva
 
