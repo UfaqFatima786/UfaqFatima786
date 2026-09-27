@@ -79,7 +79,7 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * MS Office
 * UI/UX Basics
 * MS Word
-
+* Power Point
 ---
 
 # 🚀 Featured Projects
