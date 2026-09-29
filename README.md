@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Frontend Web Developer** who enjoys creating responsive, modern, interactive, and user-friendly websites.
+I'm a passionate **Frontend Web Developer** who enjoys creating mobile responsive, modern, interactive, and user-friendly websites.
 
 I love turning ideas into functional web experiences using **HTML, CSS, JavaScript, Supabase, Bootstrap, APIs, and CRUD**. Alongside my development journey, I have a background in **Geography** 
 
