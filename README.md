@@ -70,6 +70,7 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * Github Pages
 * Surge
 * Canva
+* Vercel
 
 ### 🌍 Other Skills
 
