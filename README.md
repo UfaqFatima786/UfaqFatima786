@@ -123,7 +123,7 @@ A responsive AI-focused project created for the **AI FemHack Hackathon**.
 
 A responsive bakery website featuring cakes, sweets, bakery products, and Nimco collections.
 
-**Tech:** HTML, CSS, Bootstrap, JavaScript
+**Tech:** HTML, CSS, Bootstrap, JavaScript , GSAP
 
 ---
 
