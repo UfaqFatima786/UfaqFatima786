@@ -192,7 +192,7 @@ Currently focusing on:
 ---
 # 📊 GitHub Analytics
 
-<p align="center">
+__<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UfaqFatima786&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqFatima786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
@@ -207,7 +207,7 @@ Currently focusing on:
     src="https://streak-stats.demolab.com/?user=UfaqFatima786&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</p> 
+</p> __
 
 ---
 
