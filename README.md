@@ -53,6 +53,8 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * Responsive Web Design
 * DOM Manipulation
 * API Integration
+* Axios
+* Tailwind CSS
 * Github and Git
 
 ### 🗄️ Backend & Database
