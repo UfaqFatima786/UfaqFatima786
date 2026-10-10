@@ -45,6 +45,7 @@ I'm continuously improving my skills through internships, female hackathons, rea
 * HTML5
 * CSS3
 * CSS Animations
+* Flex Box
 * JavaScript (ES6+)
 * GSAP Animation
 * Bootstrap
