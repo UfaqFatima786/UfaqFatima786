@@ -154,6 +154,7 @@ An interactive student admission form developed during my internship.
 * 💼 CrixSoft Internship
 * 💼 Decode Labs Internship Projects
 * 💼 HexSoftwares Internship Projects
+* Auspify Internship
 
 
 Through these experiences, I worked on practical frontend projects, responsive websites, JavaScript applications, forms, APIs, and modern web interfaces.
