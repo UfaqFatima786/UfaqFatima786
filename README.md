@@ -7,7 +7,7 @@
 <h1 align="center">Hey there! I'm Ufaq Fatima 👋</h1>
 
 <h3 align="center">
-  💻 Frontend Web Developer | 🌍 Geography Graduate | 🐍 Python Enthusiast
+  💻 Frontend Web Developer | 🌍 Geography Graduate 
 </h3>
 
 <p align="center">
