@@ -4,8 +4,6 @@
   <img src="BANNER.PNG.png" width="100%" alt="Syeda Ufaq Fatima Banner"/>
 </p>
 
-<h1 align="center">Hey there! I'm Ufaq Fatima 👋</h1>
-
 <h3 align="center">
   💻 Frontend Web Developer | 🌍 Geography Graduate 
 </h3>
