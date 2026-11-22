@@ -161,7 +161,9 @@ Worked on practical frontend development tasks, responsive websites, JavaScript 
 - API Integration
 - Backend Development
 - Modern UI/UX
-- Python
+- Node.js
+- Express.js
+- MongoDB Database
 
 ---
 
