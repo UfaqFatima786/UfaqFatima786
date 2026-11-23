@@ -139,7 +139,7 @@ With a background in Geography and a growing passion for technology, I love comb
 - CrixSoft
 - Decode Labs
 - HexSoftwares
-- Auspify
+- Auspify Technologies
 
 Worked on practical frontend development tasks, responsive websites, JavaScript applications, APIs, forms, and interactive interfaces.
 
