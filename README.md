@@ -36,7 +36,6 @@ With a background in Geography and a growing passion for technology, I love comb
 - ⚛️ Currently improving my React.js skills.
 - 🐍 Exploring Python and programming concepts.
 - 🌍 Interested in GIS, mapping, and technology.
-- 💜 Passionate about Women in Tech.
 
 ---
 
